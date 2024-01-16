@@ -8,6 +8,7 @@ Run `cargo run` and check http://localhost:3000/
 
 # TODO
 
+- [ ] Deployment
 - [ ] Server discovery
 - [ ] Authentication 
 - [ ] Batch API
